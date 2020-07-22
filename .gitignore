@@ -1,0 +1,9 @@
+.env
+yarn.lock
+package-lock.json
+node_modules
+coverage
+.vscode
+logs
+dist
+*.zip
